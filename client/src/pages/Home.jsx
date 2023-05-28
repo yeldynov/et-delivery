@@ -9,7 +9,9 @@ const Home = () => {
   useEffect(() => {
     const getShops = async () => {
       try {
-        const response = await axios.get('http://localhost:3000/shops');
+        const response = await axios.get(
+          'https://et-delivery-sever.onrender.com/shops'
+        );
         setShops(response.data);
         setActiveShop(response.data[0]);
       } catch (error) {

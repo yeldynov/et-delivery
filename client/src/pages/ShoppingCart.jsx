@@ -37,7 +37,7 @@ const ShoppingCart = () => {
     }
 
     try {
-      axios.post('http://localhost:3000/orders', {
+      axios.post('https://et-delivery-sever.onrender.com/orders', {
         cartItems,
         cartTotal,
         userInfo: formFields,
