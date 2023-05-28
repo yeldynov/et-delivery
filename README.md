@@ -4,7 +4,7 @@ This is a sample application that demonstrates an E-commerce website using the M
 
 # Live Demonstration
 
-The E-commerce demo can be [viewed online here](https://address.../).
+The E-commerce demo can be [viewed online here](https://enchanting-crostata-f054cc.netlify.app/).
 
 - The Frontend deployed to Netlify.
 - The Backend deployed to Render.com
