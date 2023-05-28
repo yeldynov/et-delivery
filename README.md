@@ -6,6 +6,9 @@ This is a sample application that demonstrates an E-commerce website using the M
 
 The E-commerce demo can be [viewed online here](https://enchanting-crostata-f054cc.netlify.app/).
 
+## Important!
+If you don't see any shops or products when loading app for the first time - please, wait about 30 seconds. Free server needs some time to wake up...
+
 - The Frontend deployed to Netlify.
 - The Backend deployed to Render.com
 
